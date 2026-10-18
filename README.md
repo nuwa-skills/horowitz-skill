@@ -5,7 +5,7 @@
 ### a16z联合创始人 | Opsware前CEO | 创业者的创业者
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 以本·霍洛维茨的视角回答问题：创业维艰、战时CEO、企业文化、困难决策
 
